@@ -4,7 +4,7 @@
 #
 Name     : mvn-HikariCP-java7
 Version  : 2.4.12
-Release  : 1
+Release  : 2
 URL      : https://github.com/brettwooldridge/HikariCP/archive/HikariCP-2.4.12.tar.gz
 Source0  : https://github.com/brettwooldridge/HikariCP/archive/HikariCP-2.4.12.tar.gz
 Source1  : https://repo1.maven.org/maven2/com/zaxxer/HikariCP-java7/2.4.12/HikariCP-java7-2.4.12.jar
